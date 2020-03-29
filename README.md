@@ -1,4 +1,4 @@
 # Dagger2Java
 
  ## Reference
-[YT playlist](https://github.com/ahmeddhus/Dagger2Java)  
+[YT playlist](https://www.youtube.com/playlist?list=PLXjbGq0ERjFoPiMas60yaS9xw--fOVLPy)  
