@@ -1,8 +1,11 @@
 package com.example.dagger;
 
+import javax.inject.Singleton;
+
 import dagger.BindsInstance;
 import dagger.Component;
 
+@Singleton
 @Component(modules = CoffeeModule.class)
 public interface CoffeeComponent {
     Coffee getCoffee();
